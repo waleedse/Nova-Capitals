@@ -1,0 +1,28 @@
+.termsRow {
+  padding: 3vw 10vw;
+}
+.termsBg {
+  background-color: #f7f7f7;
+}
+.termsCardBox {
+  margin: 10px auto;
+
+  width: 280px;
+  height: 230px;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 25px;
+}
+.termsCardInfoBox {
+  padding: 30px;
+  border-top: 13px solid #090909;
+}
+.termsCardTitle {
+  color: #090909;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.termsCardText {
+  font-size: 0.7rem;
+  margin-top: 5px;
+}
