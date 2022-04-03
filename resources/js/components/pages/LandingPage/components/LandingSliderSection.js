@@ -17,7 +17,7 @@ export default class LandingSliderSection extends Component {
             sliders:[
               {
                 image:'183531banner1.png',
-                content: '<div class="container"><div class="row trueRow"><div class="col-12 pt-5 "><h1 class="trueTitle">Al Awal Markets </h1><p class="trueDescription">Most Trusted ECN Broker <br/>ECN Spreads from 0.1 pips</p><div class="trueButtonBox"><a href="https://secure.alawalmarkets.com/#/auth/login">      <button  class="btnLogin">LOG IN</button> </a><a href="https://secure.alawalmarkets.com/#/auth/signup">     <button class="btnSignUp">SIGN UP</button></a></div></div></div></div>',
+                content: '<div class="container"><div class="row trueRow"><div class="col-12 pt-5 "><h1 class="trueTitle">Nova Capitals </h1><p class="trueDescription">Most Trusted ECN Broker <br/>ECN Spreads from 0.1 pips</p><div class="trueButtonBox"><a href="https://secure.novacapitals.com/#/auth/login">      <button  class="btnLogin">LOG IN</button> </a><a href="https://secure.novacapitals.com/#/auth/signup">     <button class="btnSignUp">SIGN UP</button></a></div></div></div></div>',
               }
             ]
         }
@@ -77,7 +77,7 @@ export default class LandingSliderSection extends Component {
             <div className="container-fluid">
               <div className="row tradeWithRow ">
                 <div className="col-12 pt-5">
-                  <h3 className="tradeWithTitle">Why Trade with Al Awal Markets </h3>
+                  <h3 className="tradeWithTitle">Why Trade with Nova Capitals </h3>
                   <p className="tradeWithText">
                   Trade multiple financial products with the most reliable Forex Broker
                   </p>

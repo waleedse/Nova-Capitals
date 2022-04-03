@@ -21,11 +21,11 @@ export default class PatnershipPage extends Component {
           Negative balance protection represents a situation where no client is responsible for paying back a negative balance even under highly volatile conditions. The traders cannot lose more money than the trading funds they have in their accounts.
           </p>
           {/* <h4 className="aboutDetailTitle mt-4">
-            How to become AL Awal Markets IB?
+            How to become Nova Capitals IB?
           </h4>
           <p className="textFont">
             You need to introduce minimum of three clients* to be eligible for
-            AL Awal Markets (IB) program.
+            Nova Capitals (IB) program.
           </p> */}
         </div>
         <div className="container-fluid">
@@ -48,7 +48,7 @@ export default class PatnershipPage extends Component {
                 color="#eb1597"
                 className="mr-1"
               />
-            AL Awal Markets ensure secure trading by offering the benefits of negative balance protection to all its clients: Our risk management system ensures that the client cannot lose more than he initially invested. If the balance becomes negative due to Stop Out, significant economic events, when sudden market movements drastically affect the value of assets, or due to high volatility and price gaps, a customer can lose his/her equity. AL Awal Markets will compensate the extra amount and adjust the account balance to zero.
+            Nova Capitals ensure secure trading by offering the benefits of negative balance protection to all its clients: Our risk management system ensures that the client cannot lose more than he initially invested. If the balance becomes negative due to Stop Out, significant economic events, when sudden market movements drastically affect the value of assets, or due to high volatility and price gaps, a customer can lose his/her equity. Nova Capitals will compensate the extra amount and adjust the account balance to zero.
 
             </p>
             <p className="aboutDetailText">
@@ -67,7 +67,7 @@ export default class PatnershipPage extends Component {
                 color="#eb1597"
                 className="mr-1"
               />
-             By setting your Stop Loss, planning trading volumes and strategically using leverage will prevent your account from meeting negative balance.AL Awal Markets assures that your risk is limited only to the funds you have deposited into your account. Our clients are protected from losses beyond their initial deposit.
+             By setting your Stop Loss, planning trading volumes and strategically using leverage will prevent your account from meeting negative balance.Nova Capitals assures that your risk is limited only to the funds you have deposited into your account. Our clients are protected from losses beyond their initial deposit.
             </p>
 
           </div>

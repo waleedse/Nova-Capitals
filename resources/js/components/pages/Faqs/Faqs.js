@@ -13,7 +13,7 @@ class Faq extends Component {
                 },
                  {
                     question:'	What types of accounts do you offer?',
-                    answer:`Al Awal Markets offers a wide range of trading accounts suitable for any trading strategy and
+                    answer:`Nova Capitals offers a wide range of trading accounts suitable for any trading strategy and
                     any level of your trading experience. Both real and demo accounts are available on two trading platforms –
                     MetaTrader 4 and MetaTrader 5. You can compare accounts and chose the one fitting your individual requirements `,
                     state:false,
@@ -21,7 +21,7 @@ class Faq extends Component {
                 ,
                  {
                     question:'	Do you offer demo accounts?',
-                    answer:`Al Awal Markets offer four type of demo accounts which are mirror to live accounts of Standard, Premium, Elite and Raw ECN. You can choose to start with any of the demo accounts to develop your trading skills.`,
+                    answer:`Nova Capitals offer four type of demo accounts which are mirror to live accounts of Standard, Premium, Elite and Raw ECN. You can choose to start with any of the demo accounts to develop your trading skills.`,
                     state:false,
                 },
                 ,
@@ -43,8 +43,8 @@ class Faq extends Component {
                     state:false,
                 },
                 {
-                    question:'	Can I trade Commodities at Al Awal Markets?',
-                    answer:`Yes, enjoy the benefits of trading gold, silver, crude oil and other commodities with Al Awal Markets`,
+                    question:'	Can I trade Commodities at Nova Capitals?',
+                    answer:`Yes, enjoy the benefits of trading gold, silver, crude oil and other commodities with Nova Capitals`,
                     state:false,
                 },
                 {
@@ -61,17 +61,17 @@ class Faq extends Component {
                 },
                 {
                     question:'Is it possible to lose more than I deposited? What if my accounts balance becomes negative?',
-                    answer:`Al Awal Markets ensure secure trading by offeringthe benefits of negative balance protection to all its clients. With negative balance protection enabled, your trading account will never turn negative. Even if the traders face a bad loss, Al Awal Markets will ultimately pay for the maximum deposited amount.`,
+                    answer:`Nova Capitals ensure secure trading by offeringthe benefits of negative balance protection to all its clients. With negative balance protection enabled, your trading account will never turn negative. Even if the traders face a bad loss, Nova Capitals will ultimately pay for the maximum deposited amount.`,
                     state:false,
                 },
                 {
                     question:'	What is Negative balance protection?',
-                    answer:`Negative balance protection represents a situation where no client is responsible for paying back a negative balance even under highly volatile conditions. The traders cannot lose more money than the trading funds they have in their accounts.Al Awal Markets ensure secure trading by offering the benefits of negative balance protection to all its clients: Our risk management system ensures that the client cannot lose more than he initially invested.`,
+                    answer:`Negative balance protection represents a situation where no client is responsible for paying back a negative balance even under highly volatile conditions. The traders cannot lose more money than the trading funds they have in their accounts.Nova Capitals ensure secure trading by offering the benefits of negative balance protection to all its clients: Our risk management system ensures that the client cannot lose more than he initially invested.`,
                     state:false,
                 },
                 {
-                    question:'What are the advantages of trading with Al Awal Markets?',
-                    answer:`Al Awal Markets has something for every kind of market. Regardless of whether you are a retail or institutional client, we have just the right trading solutions for all your needs.Choose from a wide range of markets to trade using our impressive trading tools and instruments. We offer a huge number of currency pairs, spot metals and indices, CFDs, among many others.Al Awal Markets has the perfect account for every kind of trader. Our trading platforms are based on the latest technology to ensure reliability and security. We try our best to ensure they run smoothly on any device.`,
+                    question:'What are the advantages of trading with Nova Capitals?',
+                    answer:`Nova Capitals has something for every kind of market. Regardless of whether you are a retail or institutional client, we have just the right trading solutions for all your needs.Choose from a wide range of markets to trade using our impressive trading tools and instruments. We offer a huge number of currency pairs, spot metals and indices, CFDs, among many others.Nova Capitals has the perfect account for every kind of trader. Our trading platforms are based on the latest technology to ensure reliability and security. We try our best to ensure they run smoothly on any device.`,
                     state:false,
                 },
                 // {

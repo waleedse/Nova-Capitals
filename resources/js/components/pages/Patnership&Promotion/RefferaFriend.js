@@ -15,7 +15,7 @@ export default class PatnershipPage extends Component {
         <div className="refferBg">
                     <div className="container">
                         <div className='title_ text-center'><span className='titleLg text-center'>REFER A FRIEND PROGRAM</span><br /></div>
-                        {/* <div className=' title2'>Best IB & Affiliate Program by Al Awal Markets</div> */}
+                        {/* <div className=' title2'>Best IB & Affiliate Program by Nova Capitals</div> */}
                         </div>
                 </div>
         <div className=" greyBg basicRow text-center">

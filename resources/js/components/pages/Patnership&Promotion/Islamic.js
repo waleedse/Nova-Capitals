@@ -26,7 +26,7 @@ class Islamic extends Component {
                         <h1 className="atitle text-left text-light">SWAP Free Accounts</h1>
                         <h6 className="acrd_text px-4 text-light">
                         The best swap free broker in the industry that allows you to trade with no interest charges. <br/>
-                        This feature is available for all Al Awal Markets clients globally.
+                        This feature is available for all Nova Capitals clients globally.
                         </h6>
                         <div className="text-right px-3">
                         <img className="acard_img" src="/assets/images/is_icon_2.png"></img>
@@ -35,7 +35,7 @@ class Islamic extends Component {
                     <div className="card_light mt-3">
                         <h1 className="atitle text-left">Negative Balance Protection</h1>
                         <h6 className="acrd_text px-4">
-                        Al Awal Markets offer secure trading with negative balance protection. <br/> Traders cannot lose more than deposited.
+                        Nova Capitals offer secure trading with negative balance protection. <br/> Traders cannot lose more than deposited.
                         </h6>
                         <div className="text-right px-3">
                         <img className="acard_img" src="/assets/images/is_icon_3.png"></img>

@@ -13,7 +13,7 @@ export default class EducationPage extends Component {
       <div>
         <HeroSec3
           title="EDUCATION"
-          text="Learn about Forex Markets with Al Awal Markets"
+          text="Learn about Forex Markets with Nova Capitals"
           bg="educationbanner.jpg"
         />
         <div className="">

@@ -9,7 +9,7 @@ class ProtectionofFunds extends Component {
                  <HeroSec2
                 title="Protection of Funds"
                 // text="Our Best Practices for the Protection of Your Funds "
-                // text2="Al Awal Markets ensures the security of funds and personal data of its clients in the best possible manner. It is our first priority to protect your deposits in every possible way. Here are some of the measures we take to ensure funds protection: "
+                // text2="Nova Capitals ensures the security of funds and personal data of its clients in the best possible manner. It is our first priority to protect your deposits in every possible way. Here are some of the measures we take to ensure funds protection: "
                 bg="pof.png"
         />
 
@@ -19,7 +19,7 @@ class ProtectionofFunds extends Component {
                     </div>
                     <div className="col-md-7 text-center">
                     <h4 className="textFont" style={{fontSize:'22px'}}>
-                    The primary concern among online traders is the safety of their funds. Al Awal Markets considers the security of customer funds to be the bedrock of the company’s values and no effort is spared in maintaining the security of customer funds and the integrity of our trading platforms.
+                    The primary concern among online traders is the safety of their funds. Nova Capitals considers the security of customer funds to be the bedrock of the company’s values and no effort is spared in maintaining the security of customer funds and the integrity of our trading platforms.
                     </h4>
                     </div>
 
@@ -38,7 +38,7 @@ class ProtectionofFunds extends Component {
                 </div>
                 <div className="basicRow  text-center">
                     <h2 className="aboutDetailTitle" style={{fontSize:'38px'}}>
-                    Here’s how Al Awal Markets keeps your information and money secure:
+                    Here’s how Nova Capitals keeps your information and money secure:
 
                     </h2>
 
@@ -54,9 +54,9 @@ class ProtectionofFunds extends Component {
 
     Embedded True-Site identity assurance seal<br/><br/>
 
-Al Awal Markets is WebTrust compliant, as determined by the American Institute of Certified Public Accountants
+Nova Capitals is WebTrust compliant, as determined by the American Institute of Certified Public Accountants
 <br/><br/>
-Al Awal Markets uses McAfee Secure (HackerSafe) to prevent credit card fraud and identity theft
+Nova Capitals uses McAfee Secure (HackerSafe) to prevent credit card fraud and identity theft
 <br/><br/>
 Your firm client base would benefit from adding an additional platform to your multi-product offering.
 <br/><br/>

@@ -10,7 +10,7 @@ export default class TradingCurrencisePage extends Component {
       <div>
         <HeroSec2
            title="TRADE GOLD"
-           title2="WITH Al Awal Markets"
+           title2="WITH Nova Capitals"
            text="Discover potential profit opportunities in the precious metals market"
            bg="precious_metal.jpg"
         />
@@ -53,7 +53,7 @@ export default class TradingCurrencisePage extends Component {
               <h4 className="aboutDetailTitle text-light">What is spot metal trading?</h4>
               <p className="aboutDetailText">
               The spot price, as opposed to a futures contract, of a precious metal like Gold (XAU) or Silver (XAG) is the cash
-              price of that metal in the market at the current point in time. With Al Awal Markets, precious metal trading is the act
+              price of that metal in the market at the current point in time. With Nova Capitals, precious metal trading is the act
               of exchanging Gold or Silver spot prices for a major currency.
               An example of this is the pair XAGEUR (trades Silver against the Euro), or XAUGBP (Gold against the British Pound).
               </p>
@@ -84,7 +84,7 @@ export default class TradingCurrencisePage extends Component {
             <div className="col-12 text-center">
               <h4 className="aboutDetailTitle">Spot Metal Pairs</h4>
               <p className="aboutDetailText">
-              Get superior service and instant order execution on 3 Spot Metal pairs from Al Awal Markets.
+              Get superior service and instant order execution on 3 Spot Metal pairs from Nova Capitals.
               Take control of your forex investments and enjoy the best risk-reward opportunities of the financial
               markets with an award winning forex brokerage firm. Reap the benefits of superior professional services and instant order execution on 3
               Spot Metal pairs backed by some of the best liquidity providers in a modern, safe, technology driven trading environment.

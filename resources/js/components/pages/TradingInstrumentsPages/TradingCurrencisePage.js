@@ -11,7 +11,7 @@ export default class TradingCurrencisePage extends Component {
       <div>
         <HeroSec2
           title="EXPLORE CURRENCY TRADING"
-          title2="WITH Al Awal Markets"
+          title2="WITH Nova Capitals"
           text="Trade major,minor and exotic currency pairs with True ECN FX broker."
           bg="currencies.jpg"
         />

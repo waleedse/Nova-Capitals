@@ -14,7 +14,7 @@ export default class HowItWorks extends Component {
           <h2 className="howItTitle">HOW IT <span style={{fontSize:'56px'}}>WORKS</span></h2>
             <p className="howItText">
               Step-by step guide on how to Create Account and start working with
-              Al Awal Markets
+              Nova Capitals
             </p>
            <div className="row">
                 <div className="col-md-6 col-sm-6 feature_div">

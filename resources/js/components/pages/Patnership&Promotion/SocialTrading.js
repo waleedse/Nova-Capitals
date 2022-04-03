@@ -36,7 +36,7 @@ class SocialTrading extends Component {
                     <div className="sec3 ">
                         {/* <h1 className="title_ text-center" style={{color:'#df1995'}}>MT4 <span style={{fontSize:'18px'}}>SOCIAL TRADING</span></h1> */}
                         <h6 className="acard_text text-justify py-0 mt-5">
-                            Al Awal Markets Social Trading is perfect whether you are a beginner or an experienced trader.
+                            Nova Capitals Social Trading is perfect whether you are a beginner or an experienced trader.
                             Novice traders can gain exposure to the markets while learning! Shorten the learning curve by following expert traders who can provide
                             valuable insight. Experienced traders can save time by getting a clear view of the market, without having to perform daily research.
                             Broaden your horizon by gaining exposure to assets you don’t normally trade.
@@ -47,7 +47,7 @@ class SocialTrading extends Component {
                         <h1 className="title_ text-center" style={{color:'#df1995'}}> <span style={{fontSize:'22px'}}>
                         The Latest Innovation in Social Trading</span></h1>
                         <h6 className="acard_text text-justify">
-                            Al Awal Markets Social Trading is perfect whether you are a beginner or an experienced trader.
+                            Nova Capitals Social Trading is perfect whether you are a beginner or an experienced trader.
                             Novice traders can gain exposure to the markets while learning! Shorten the learning curve by following expert traders who can provide
                             valuable insight. Experienced traders can save time by getting a clear view of the market, without having to perform daily research.
                             Broaden your horizon by gaining exposure to assets you don’t normally trade.
@@ -102,7 +102,7 @@ class SocialTrading extends Component {
 
                     >
                       <div className="termsCardTitle">A New Way to Share Your Best Trades</div>
-                      <p className="termsCardText">Want to increase your following or just proud of a big win? Al Awal Markets Social Trading lets you celebrate your success with an image you can post
+                      <p className="termsCardText">Want to increase your following or just proud of a big win? Nova Capitals Social Trading lets you celebrate your success with an image you can post
                       across your entire social media network, including Facebook, Instagram and Twitter.</p>
                     </div>
                 </div>

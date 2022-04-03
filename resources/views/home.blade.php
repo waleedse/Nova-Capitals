@@ -10,20 +10,20 @@
 
     <link rel="canonical" href="https://www.cabanacapitals.com/" />
     <!-- frontend_index_index -->
-    <title>True ECN Forex broker, Online Forex Trading, CFD Trading - Al Awal Markets</title>
+    <title>True ECN Forex broker, Online Forex Trading, CFD Trading - Nova Capitals</title>
     <meta name="description" content="Trade with True ECN Forex Broker and best trading conditions: Low Spreads, No Swaps, No Commissions." />
-    <meta name="keywords" content="Al Awal Markets, true ecn forex broker, forex, forex trading, broker, currency trading, deposit, bonus, forex broker, no requote, no deposit bonus, deposit bonus, visa, mastercard, octafx, fbs, tickmill, superforex, liteforex, icmarkets, weltrade, iforex, best forex broker, nord forex " />
+    <meta name="keywords" content="Nova Capitals, true ecn forex broker, forex, forex trading, broker, currency trading, deposit, bonus, forex broker, no requote, no deposit bonus, deposit bonus, visa, mastercard, octafx, fbs, tickmill, superforex, liteforex, icmarkets, weltrade, iforex, best forex broker, nord forex " />
     <!-- Open Graph Data -->
     <meta property="og:url" content="https://www.cabanacapitals.com/" />
-    <meta property="og:title" content="True ECN Forex broker, Online Forex Trading, CFD Trading - Al Awal Markets" />
+    <meta property="og:title" content="True ECN Forex broker, Online Forex Trading, CFD Trading - Nova Capitals" />
     <meta property="og:description" content="Trade with True ECN Forex Broker and best trading conditions: Low Spreads, No Swaps, No Commissions." />
     <meta property="og:type" content="website" />
 
-    <meta property="og:site_name" content="Al Awal Markets">
+    <meta property="og:site_name" content="Nova Capitals">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="thumbnail" content="/assets/images/logo.png" />
     <link rel="shortcut icon" href="/assets/images/favicon.ico">
-    <title>Al Awal Markets | Forex Trading with True ECN Forex Broker</title>
+    <title>Nova Capitals | Forex Trading with True ECN Forex Broker</title>
     <!-- Font Awesome -->
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">

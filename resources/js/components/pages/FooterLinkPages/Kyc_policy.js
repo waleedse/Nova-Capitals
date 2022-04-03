@@ -48,7 +48,7 @@ Company procedures
 <br></br>Records must be kept of all transaction data and data obtained for identification purposes, as well as all documents related to money laundering issues (e.g. suspicious activity reporting files, AML account monitoring documentation , etc.. Those records are kept for a minimum of 7 years after the account is closed.
 <br></br> <br></br>Measures taken
 <br></br>In cases of an attempt to execute transactions that Alawal Markets suspects are related to money laundering or other criminal activity, it will proceed in accordance with applicable law and report the suspicious activity to the regulatory authority.
-<br></br> <br></br>Alawal Markets reserves the right to suspend the operation of any client, which may be considered illegal or may be related to money laundering in the opinion of the staff. Alawal Markets has full discretion to temporarily block the suspicious customer's account or terminate a relationship with an existing customer. For more information you can contact us at support@alawalmarkets.com.
+<br></br> <br></br>Alawal Markets reserves the right to suspend the operation of any client, which may be considered illegal or may be related to money laundering in the opinion of the staff. Alawal Markets has full discretion to temporarily block the suspicious customer's account or terminate a relationship with an existing customer. For more information you can contact us at support@novacapitals.com.
 
 
 

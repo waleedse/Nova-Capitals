@@ -95,7 +95,7 @@ margin-top: -20px;
   padding: 20px 30px;
 }
 .depositButton{
-  background-image:linear-gradient(to right ,#090d1ce3,#090d1c) ;
+  background-image:linear-gradient(to right ,#f79335e3,#d69a00) ;
   color: #fff; font-size: 1rem;
   font-weight: bold;
   padding: 7px 20px;
@@ -106,7 +106,7 @@ margin-top: -20px;
   text-transform: uppercase;
   font-size: 1.4rem;
   font-weight: bold;
-  color: #000;
+  color: #fff;
 }
 
 .depositCard .outerDiv{

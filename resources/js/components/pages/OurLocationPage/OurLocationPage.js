@@ -24,7 +24,7 @@ const OurLocationPage = () => {
             <div className="title">Customer Support</div>
             <div className="text">For any enquiries call or whatsapp us .</div>
             <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#fff"  /> +44 (0) 203 900 2800</div>
-            <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#fff"  /> support@alawalmarkets.com
+            <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#fff"  /> support@novacapitals.com
 </div>
            </div>
            </div>
@@ -38,7 +38,7 @@ const OurLocationPage = () => {
             Vincent and the Grenadines
                 </span></div>
                 <div className="text mb-1"><FontAwesomeIcon icon={faPhone} color="#ee3f97"  /> +44 (0) 203 900 2800</div>
-                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  />support@alawalmarkets.com</div>
+                <div className="text"><FontAwesomeIcon icon={faEnvelope} color="#ee3f97"  />support@novacapitals.com</div>
                </div>
                {/* <div className="locationCard">
                    <div className='title'>Dubai</div>

@@ -80,7 +80,7 @@ class TradeWithCabana extends Component {
         return (
             <div className={fixDiv?"growthHeight  ":""}>
             <div className={fixDiv?"tradeWithCabana tradecabanabg fixDiv2 mt-4":"tradeWithCabana  tradecabanabg fixDiv3"}>
-                <div className="title mb-0 mb-md-5">WHY TRADE WITH Al Awal</div>
+                <div className="title mb-0 mb-md-5">WHY TRADE WITH Nova Capitals</div>
                 <div className="mainFlex">
                     <div className="sec-1 ml-auto mr-auto" >
                         <div onClick={()=>this.handleActive("leverage")} className={active==="leverage"?"item itemRight itemActive  mt-1 mt-md-5":"item itemRight     mt-1 mt-md-5"}>
@@ -133,25 +133,25 @@ export default TradeWithCabana;
 const SwapAccount=()=>{
     return <>  <div className="text px-4">Swap Free Accounts are available to all our clients</div>
 
-    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const LowSpread=()=>{
     return <>  <div className="text px-4">Our Spreads are lowest in the market</div>
 
-    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const FastDeposite=()=>{
     return <>  <div className="text px-4">Fast Deposit & Withdrawal Service</div>
 
-    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const MultiLang=()=>{
     return <>  <div className="text px-4">We offer personlised customer service round the clock</div>
 
-    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }
 const FixedLeaverage=()=>{
     return <>  <div className="text px-4">We offer fixed Leverage to all our clients</div>
 
-    <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
+    <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="createBtn mt-2" >Register</button>  </>
 }

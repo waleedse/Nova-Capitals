@@ -7,7 +7,7 @@ class StrategyManage extends Component {
                 <img src="/assets/images/sm_bg.png" style={{ width: '100%' }}></img>
                 <div className="card_light  promoOpenAcc">
                     <div className="container">
-                        <h2 className="atitle">Become a Strategy Manager with Al Awal Markets</h2>
+                        <h2 className="atitle">Become a Strategy Manager with Nova Capitals</h2>
 
                         <div className="px-5">
                             <div className="row">
@@ -64,7 +64,7 @@ class StrategyManage extends Component {
 
                         <div className='row ml-auto mt-5 mr-auto promoOpenAcc bg-transparent'>
                             <h1 className="col-md-4 "></h1>
-                            <button onClick={() => { window.open('https://secure.Al AwalMarkets.com/register/', '_self') }} className='btnAcc liveAccBtn'>
+                            <button onClick={() => { window.open('https://secure.Nova CapitalsMarkets.com/register/', '_self') }} className='btnAcc liveAccBtn'>
                                 BECAME A STRATEGY MANAGER</button>
                             <button onClick={() => { window.open('/PAMM', '_self') }}
                                 className='btnAcc liveAccBtn ml-0 ml-md-4'>

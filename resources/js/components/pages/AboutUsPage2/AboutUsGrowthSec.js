@@ -54,19 +54,19 @@ this.handleFixDiv=this.handleFixDiv.bind(this)
             case "17":
 
                return <Growth2017 year={activeYear}
-                content = "Al Awal Markets started it's successful journey in 2017 and within first 6 months more than 10,000 clients registered and became a part of Al Awal Markets ever growing family.<br/><br/>"
+                content = "Nova Capitals started it's successful journey in 2017 and within first 6 months more than 10,000 clients registered and became a part of Nova Capitals ever growing family.<br/><br/>"
                 img="world.png"
                />
             case "18":
 
                return <Growth2017 year={activeYear}
-                content = "Due to an overwhelming positive response during it's foundation year, Al Awal Markets expanded its operations and went global in 2018, entering multiple regions including Asia, South East Asia, East Asia  and Africa."
+                content = "Due to an overwhelming positive response during it's foundation year, Nova Capitals expanded its operations and went global in 2018, entering multiple regions including Asia, South East Asia, East Asia  and Africa."
                 img="18.png"
                />
             case "19":
 
                return <Growth2017 year={activeYear}
-               content="Al Awal Markets had another feather in their caps in 2019 by being
+               content="Nova Capitals had another feather in their caps in 2019 by being
                a proud sponsor of a successful event, Dubai Forex Expo.
                 It enjoyed a spectacular growth of expanding business further in more than 30 countries."
                 img="19.png"
@@ -74,13 +74,13 @@ this.handleFixDiv=this.handleFixDiv.bind(this)
             case "20":
 
                return <Growth2017 year={activeYear}
-               content = "Despite the unprecedented times in 2020, Al Awal Markets reached a milestone and remarkable business growth with a global reach of over 79 countries  and over 150,000 trading accounts worldwide."
+               content = "Despite the unprecedented times in 2020, Nova Capitals reached a milestone and remarkable business growth with a global reach of over 79 countries  and over 150,000 trading accounts worldwide."
                img="20.png"
                />
             case "21":
 
                return <Growth2017 year={activeYear}
-               content = "The year 2021 has proven to be a complete success for Al Awal Markets so far. It made a spectacular start to the year by bagging the Consumer Choice for Best Oil & Gold Broker in the forex market. It also participated in Dubai Forex Expo & opened its regional offices in Far East Asia and Africa."
+               content = "The year 2021 has proven to be a complete success for Nova Capitals so far. It made a spectacular start to the year by bagging the Consumer Choice for Best Oil & Gold Broker in the forex market. It also participated in Dubai Forex Expo & opened its regional offices in Far East Asia and Africa."
                img="21.png"
                />
 

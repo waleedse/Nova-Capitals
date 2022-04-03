@@ -7,7 +7,7 @@ import "./footerLinkPage.css"
 const CookiePolicy = () => {
     return (
         <div>
-            <HeroSection title="COOKIE POLICY" text="Al Awal Markets - True ECN Forex Broker" />
+            <HeroSection title="COOKIE POLICY" text="Nova Capitals - True ECN Forex Broker" />
             <div className=' footerLinkPage'>
                 <div className="basicRow">
 

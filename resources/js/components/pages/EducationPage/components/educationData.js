@@ -54,7 +54,7 @@ export const eduIntermediateData = [
   {
     title: "How to start trading in 4 easy steps",
     des:
-      "Register with Al Awal Markets, upload your documents to verify your account, Login to Al Awal Markets and fund your account. Start trading on more than 80 instruments.",
+      "Register with Nova Capitals, upload your documents to verify your account, Login to Nova Capitals and fund your account. Start trading on more than 80 instruments.",
   },
   {
     title: "What are Moving Averages?",
@@ -158,7 +158,7 @@ export const eduQuestionData2 = [
     ans:
       "We hope you enjoyed this guide on how to use MetaTrader 4. Of course, the best way to get these tips and techniques to really sink in is to go ahead and try them out for yourself using MetaTrader 4. If you’re wondering how to play around with MetaTrader 4 without risking any money, the best way is with a demo trading account. ",
     ans2:
-      "Every demo trade is completely risk-free, making it a perfect way to experiment with trading on the platform and to understand how MetaTrader 4 works. Once you have built up your confidence up through demo trades, and are ready to trade for real, you will need a live trading account and for that Al Awal Markets is there for you. so what are you waiting for start trading with us today.",
+      "Every demo trade is completely risk-free, making it a perfect way to experiment with trading on the platform and to understand how MetaTrader 4 works. Once you have built up your confidence up through demo trades, and are ready to trade for real, you will need a live trading account and for that Nova Capitals is there for you. so what are you waiting for start trading with us today.",
   },
   {
     qes: "",

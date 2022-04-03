@@ -14,7 +14,7 @@ export default class TradingInstrumentComponent extends Component {
             </h4>
             <p className="textFont text-center">
               From currency trading to speculating on the price movements of
-              your favourite trading instruments – Al Awal has it all.
+              your favourite trading instruments – Nova Capitals has it all.
               Enter the vast, complex and exhilarating world of the financial
               markets with a True ECN broker.
             </p>

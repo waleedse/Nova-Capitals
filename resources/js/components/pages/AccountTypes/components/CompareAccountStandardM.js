@@ -53,7 +53,7 @@ class CompareAccountStandardM extends Component {
 
 
 
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
                 GET STARTED
               </button>
               </div> */}
@@ -110,7 +110,7 @@ class CompareAccountStandardM extends Component {
              <h4 className="title d-inine "><span className='opacityZero'>MAXIMUM ORDERS</span></h4>
              <h2 className="compareAccountNorMobText"> <span className="">100</span></h2>
 
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
                 GET STARTED
               </button>
 
@@ -165,7 +165,7 @@ class CompareAccountStandardM extends Component {
              <h4 className="title d-inine "><span className="">MAXIMUM ORDERS</span></h4>
              <h2 className="compareAccountNorMobText"> 100</h2>
 
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2  mt-4  ">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2  mt-4  ">
                 GET STARTED
               </button>
 
@@ -220,7 +220,7 @@ class CompareAccountStandardM extends Component {
              <h4 className="title d-inine "><span className="opacityZero">MAXIMUM ORDERS</span></h4>
              <h2 className="compareAccountNorMobText">100</h2>
 
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
                 GET STARTED
               </button>
 
@@ -274,7 +274,7 @@ class CompareAccountStandardM extends Component {
              <h4 className="title d-inine "><span className="opacityZero">MAXIMUM ORDERS</span></h4>
              <h2 className="compareAccountNorMobText"> Execution in under 0.1 second</h2>
 
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-2 pr-2 mr-0 mt-4 mb-5">
                 GET STARTED
               </button>
 

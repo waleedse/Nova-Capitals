@@ -11,7 +11,7 @@ export default class AboutUsBenifits extends Component {
           <div className="col-md-6 col-sm-12">
           <br/><br/>
             <h4 className="aboutDetailTitle mt-5">
-            Your Benefits With Al Awal Markets IB Program
+            Your Benefits With Nova Capitals IB Program
             </h4>
             <br/>
             <p className="aboutDetailText">

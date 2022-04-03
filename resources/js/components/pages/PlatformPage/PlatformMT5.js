@@ -14,7 +14,7 @@ export default class PlatformMT5 extends Component {
         <div className="greyBg basicRow text-center">
           <h4 className="aboutDetailTitle">
             Elevate Your Trading With <br />
-            Al Awal Markets MT5
+            Nova Capitals MT5
           </h4>
           <p className="textFont mt-2">
             Successful trading on financial markets begins with a comfortable

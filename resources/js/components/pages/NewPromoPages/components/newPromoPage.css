@@ -98,7 +98,7 @@
 }
 .mt4title{
     font-size: 38px;
-    color: #090d1c;
+    color: #fff;
     font-weight: bolder;
     text-align: center;
     padding: 30px;
@@ -210,7 +210,7 @@
     background-color: #090d1c;
 }
 .acard_text{
-    color: #090d1c;
+    color: #fff;
     font-size: 16px;
     padding: 20px;
     font-weight: 400;

@@ -10,7 +10,7 @@ export default class EducationsMetaTrader4 extends Component {
       <div>
         <HeroSec3
           title="How to Use MT4"
-          text="Learn about Forex Markets with Al Awal Markets"
+          text="Learn about Forex Markets with Nova Capitals"
           bg="metatrader.jpg"
         />
 

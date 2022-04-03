@@ -24,7 +24,7 @@ export default class DepositWithdrawPage extends Component {
       <div>
         <HeroSection
           title="DEPOSIT & WITHDRAWAL"
-          text="List of Deposit and Withdrawal Method by Al Awal Markets"
+          text="List of Deposit and Withdrawal Method by Nova Capitals"
           bg="depositandwithdrwal.jpg"
         />
 <div className="pt-4 depositToggle">
@@ -47,7 +47,7 @@ export default class DepositWithdrawPage extends Component {
     className="depositTrading">
       <div className="basicRow text-center w-100">
 
-        <div className="title">Trade With Al Awal Markets</div>
+        <div className="title">Trade With Nova Capitals</div>
         <div>
           <hr className="depositDivider" />
           <div className="depositeDividerOverlay"></div>

@@ -11,10 +11,10 @@ export default class CampareAccountStandard extends Component {
               <p className="compareAccountPrice">$200/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
                   LIVE
                 </div>
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
               </div>
             </div>
             <div className="compareAccountInfo">
@@ -43,7 +43,7 @@ export default class CampareAccountStandard extends Component {
 
 
               <div className="text-center">
-                <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountButton">
+                <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountButton">
                   Open PREMIUM Account
                 </button>
               </div>
@@ -83,7 +83,7 @@ export default class CampareAccountStandard extends Component {
              <h2 className="compareAccountNorText"> 100</h2>
              <h4 className="title d-inine "><span className="opacityZero">IB Rebate</span></h4>
              <h2 className="compareAccountNorText"> From $2 to $4</h2>
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
                 GET STARTED
               </button>
             </div>
@@ -97,10 +97,10 @@ export default class CampareAccountStandard extends Component {
               <p className="compareAccountPrice">$1000/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
                   LIVE
                 </div>
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
               </div>
             </div>
             <div className="compareAccountInfo compareAccountBg2 ">
@@ -127,7 +127,7 @@ export default class CampareAccountStandard extends Component {
 
 
                 <div className="text-center">
-                <button     onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountButton">
+                <button     onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountButton">
                   Open ELITE Account
                 </button>
               </div>
@@ -167,7 +167,7 @@ export default class CampareAccountStandard extends Component {
              <h2 className="compareAccountNorText"> 100</h2>
              <h4 className="title d-inine "><span className="">IB Rebate</span></h4>
              <h2 className="compareAccountNorText"> From $2 to $3</h2>
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 mr-0">
                 GET STARTED
               </button>
             </div>
@@ -181,10 +181,10 @@ export default class CampareAccountStandard extends Component {
               <p className="compareAccountPrice">$20,000/min</p>
               <hr className="compareAccountDivider" />
               <div className="compareAccountActionRow">
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton border-none">
                   LIVE
                 </div>
-                <div onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
+                <div onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountActionButton">Demo</div>
               </div>
             </div>
             <div className="compareAccountInfo compareAccountBg4 ">
@@ -212,7 +212,7 @@ export default class CampareAccountStandard extends Component {
 
 
               <div className="text-center">
-                <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="compareAccountButton">
+                <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="compareAccountButton">
                   Open RAW Account
                 </button>
               </div>
@@ -252,7 +252,7 @@ export default class CampareAccountStandard extends Component {
              <h2 className="compareAccountNorText">100</h2>
              <h4 className="title d-inine "><span className="opacityZero">IB Rebate</span></h4>
              <h2 className="compareAccountNorText"> No Comission</h2>
-              <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 ">
+              <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="btnPrimaryPink2 pl-4 pr-4 mt-4 mb-5 ">
                 GET STARTED
               </button>
             </div>

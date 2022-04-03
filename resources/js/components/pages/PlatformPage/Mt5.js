@@ -12,7 +12,7 @@ class Mt4 extends Component {
                     </div>
                 </div>
                 <div className="container  ">
-                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Markets Mt5 Platform</h1>
+                    <h1 className="texct-center mt4title">Elevate Your Trading With Nova Capitals Mt5 Platform</h1>
                     <h6 className="acard_text text-left">
                         Successful trading on financial markets begins with a comfortable and multi-functional trading platform. MetaTrader 5 is the best choice for the modern trader!<br/><br/>
 
@@ -31,10 +31,10 @@ class Mt4 extends Component {
                         <div className="row py-5">
                             <div className="col-md-6 text-center">
                                 <h2 className="mt4title_">MetaTrader5</h2>
-                                <button onClick={()=>{ window.open('/assets/files/alawal5setup.exe','_blank')}} className="btn download_mmt4">DOWNLOAD MT5 PLATFORM</button>
+                                <button onClick={()=>{ window.open('/assets/files/','_blank')}} className="btn download_mmt4">DOWNLOAD MT5 PLATFORM</button>
                                 <div className='text-center'>
-                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt5/android?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons" src="/assets/images/android.png"></img></a>
-                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt5/ios?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons ml-2" src="/assets/images/apple.png"></img></a>
+                               <a target='_blank' href='/'> <img className="mt4icons" src="/assets/images/android.png"></img></a>
+                               <a target='_blank' href='/'> <img className="mt4icons ml-2" src="/assets/images/apple.png"></img></a>
                                </div>
                             </div>
                             <div className="col-md-6 text-center">

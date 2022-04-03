@@ -12,7 +12,7 @@ class Mt4 extends Component {
                     </div>
                 </div>
                 <div className="container  ">
-                    <h1 className="texct-center mt4title">Elevate Your Trading With Al Awal Markets Mt4 Platform</h1>
+                    <h1 className="texct-center mt4title">Elevate Your Trading With Nova Capitals Mt4 Platform</h1>
                     <h6 className="acard_text text-left">
                     MT4 is compatible with various operating system, so don't worry if you are not running the
                     latest version of Microsoft Windows. <br/><br/> The user interface is user-friendly and simple. On top
@@ -42,10 +42,10 @@ class Mt4 extends Component {
                         <div className="row py-5">
                             <div className="col-md-6 text-center">
                                 <h2 className="mt4title_">MetaTrader4</h2>
-                                <button onClick={()=>{ window.open('https://download.mql5.com/cdn/web/20676/mt4/alawal4setup.exe','_blank')}} className="btn download_mmt4">DOWNLOAD MT4 PLATFORM</button>
+                                <button onClick={()=>{ window.open('/','_blank')}} className="btn download_mmt4">DOWNLOAD MT4 PLATFORM</button>
                                <div className='text-center'>
-                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt4/android?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons" src="/assets/images/android.png"></img></a>
-                               <a target='_blank' href='https://download.mql5.com/cdn/mobile/mt4/ios?server=AlAwal-Demo,AlAwal-Live'> <img className="mt4icons ml-2" src="/assets/images/apple.png"></img></a>
+                               <a target='_blank' href='/'> <img className="mt4icons" src="/assets/images/android.png"></img></a>
+                               <a target='_blank' href='/'> <img className="mt4icons ml-2" src="/assets/images/apple.png"></img></a>
                                </div>
 
                             </div>

@@ -76,8 +76,8 @@ export default class MissionCard extends Component {
               </div>
               <h5 className="missionTitle mt-2"> Respect</h5>
               <p className="missionText">
-                At Al Awal Markets, we have utmost respect for our clients, our
-                work, our community and ourselves. Al Awal Markets is creative,
+                At Nova Capitals, we have utmost respect for our clients, our
+                work, our community and ourselves. Nova Capitals is creative,
                 modern, progressive, and trustworthy.
               </p>
             </div>

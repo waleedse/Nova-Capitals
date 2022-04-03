@@ -16,7 +16,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/registration.svg" alt="card"></img></div>
               <h4 className="title">Register</h4>
-              <p className="text">Open your live trading account via Al Awal Markets</p>
+              <p className="text">Open your live trading account via Nova Capitals</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
@@ -33,7 +33,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/applyforib.svg" alt="card"></img></div>
               <h4 className="title">Apply For IB</h4>
-              <p className="text">Login to Al Awal Markets
+              <p className="text">Login to Nova Capitals
       and Apply to become an IB</p>
             </div>
           </div>
@@ -46,7 +46,7 @@ class StepsToOpenAccount extends Component {
           </div>
 
           <div className="col-12 text-center mt-5 mb-5">
-          <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="depositButton " style={{padding:"8px 70px"}} >Get Started</button>
+          <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="depositButton " style={{padding:"8px 70px"}} >Get Started</button>
           </div>
             </div>
           </div>

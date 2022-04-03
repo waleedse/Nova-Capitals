@@ -34,7 +34,7 @@ export default class TradingPlatforms extends Component {
               <div className="col-md-6 col-sm-12 px-5">
                 <div className="patnershipCol">
                   <h2 style={{fontSize:'48px'}} className="patnershipTitle">
-                  AL AWAL PARTNERSHIP PROGRAMS
+                  Nova Capitals PARTNERSHIP PROGRAMS
                   </h2>
                   <p className="patnershipText mt-4">
                   We offer various opportunities to partner with us and run your own business under

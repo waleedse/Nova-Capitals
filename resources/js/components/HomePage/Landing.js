@@ -32,7 +32,7 @@ class Landing extends Component {
                                                     </div>
                                                     <div className="elementor-element elementor-element-fb4644e elementor-widget__width-initial cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="fb4644e" data-element_type="widget" data-widget_type="text-editor.default">
                                                         <div className="elementor-widget-container">
-                                                            <p>Nova Made Forex Traiding Simple
+                                                            <p>Nova Made Forex Trading Simple
                                                                 {/* <img loading="lazy" className="alignnone size-full wp-image-9600 cmsmasters_img cmsmasters-lazyload lazyload" src="wp-content/uploads/sites/5/2021/12/card-30x30.png" alt width={91} height={91} data-sizes="auto" data-src="https://cyberbank.cmsmasters.net/dark/wp-content/uploads/sites/5/2021/12/card.png" srcSet="https://cyberbank.cmsmasters.net/dark/wp-content/uploads/sites/5/2021/12/card-30x30.png 30w, https://cyberbank.cmsmasters.net/dark/wp-content/uploads/sites/5/2021/12/card-10x10.png 10w, https://cyberbank.cmsmasters.net/dark/wp-content/uploads/sites/5/2021/12/card.png 91w" sizes="(max-width: 91px) 100vw, 91px" /> */}
                                                             </p>						</div>
                                                     </div>
@@ -80,10 +80,10 @@ class Landing extends Component {
                                                         <div className="elementor-widget-container">
                                                             <img style={{ width: '337px', height: '600' }} src="/images/ffff.svg" className="attachment-full size-full cmsmasters_img cmsmasters-lazyload lazyload" alt loading="lazy" data-sizes="auto" />															</div>
                                                     </div>
-                                                    {/* <div className="elementor-element elementor-element-d118940 elementor-widget__width-initial elementor-absolute cmsmasters-effect cmsmasters-effect-type-transform cmsmasters-block-default cmsmasters-sticky-default elementor-invisible elementor-widget elementor-widget-image" data-id="d118940" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+                                                    <div className="elementor-element elementor-element-d118940 elementor-widget__width-initial elementor-absolute cmsmasters-effect cmsmasters-effect-type-transform cmsmasters-block-default cmsmasters-sticky-default elementor-invisible elementor-widget elementor-widget-image" data-id="d118940" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
                                                 <div className="elementor-widget-container">
-                                                    <img width={375} height={812} src="image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAXcAAAMsAQMAAACV2HCgAAAAA1BMVEUAAP%2bKeNJXAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADxJREFUeNrtwTEBAAAAwqD1T%2b1vBqAAAAAAAAAAAA" className="attachment-full size-full cmsmasters_img cmsmasters-lazyload lazyload" alt loading="lazy" data-sizes="auto" data-src="https://cyberbank.cmsmasters.net/dark/wp-content/uploads/sites/5/2022/01/app-2-new.svg" />															</div>
-                                            </div> */}
+                                                    <img style={{ width: '337px', height: '600' }} src="/images/final.svg" className="attachment-full size-full cmsmasters_img cmsmasters-lazyload lazyload" alt loading="lazy" data-sizes="auto"  />															</div>
+                                            </div>
                                                 </div>
                                             </div>
                                         </div>

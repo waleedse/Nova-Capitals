@@ -15,7 +15,7 @@ export default class Footer extends Component {
               ></img>
               <h3 className="footerTitle text-light">Registered Office</h3>
               <p className="footerText">
-                {/* Al Awal Markets */}
+                {/* Nova Capitals */}
                  <br />
                  Griffith Corporate Centre <br />
                 Beachmont Kingstown St. <br />
@@ -100,7 +100,7 @@ export default class Footer extends Component {
         </div>
         <div className="row footerSecondRow">
           {/* <p className="footerText footerText_justify">
-            <span className="textBold">Legal:</span> Al Awal Markets Limited is
+            <span className="textBold">Legal:</span> Nova Capitals Limited is
             incorporated in St. Vincent & the Grenadines as an International
             Broker Company with the registration number 24185 IBC 2017. The
             objects of the Company are all subject matters not forbidden by
@@ -119,9 +119,9 @@ export default class Footer extends Component {
             your level of experience, investment objectives and seek independent
             financial advice if necessary. It is the responsibility of the
             Client href ascertain whether he/she is permitted href use the services
-            of the Al Awal Markets based on the legal requirements in his/her
-            country of residence. Please read Al Awal Capitals™ full Risk
-            Disclosure. Regional Restrictions: Al Awal Markets does not provide
+            of the Nova Capitals based on the legal requirements in his/her
+            country of residence. Please read Nova Capitals Capitals™ full Risk
+            Disclosure. Regional Restrictions: Nova Capitals does not provide
             services href residents of the EU Region, USA , Canada , Belgium and
             FATF Black Listed Countries. Find out more in the Account Opening
             section of our FAQs.
@@ -134,7 +134,7 @@ export default class Footer extends Component {
         </div>
         {/* <div className="row footerRightsRow">
           <h5 className="footerRightsText">
-            Copyright 2021 {"\u00A9"} Al Awal Markets All Right Reserved
+            Copyright 2021 {"\u00A9"} Nova Capitals All Right Reserved
           </h5>
         </div> */}
       </div>

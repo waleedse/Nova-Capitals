@@ -14,9 +14,9 @@ class WhiteLABEL extends Component {
                 <div className="container  ">
                     <h1 className="texct-center mt4title">Customised Forex Trading solutions for your Brokerage Firm</h1>
                     <h6 className="acard_text text-center">
-                    Al Awal Markets’s multi-bank liquidity is available to brokers and institutions operating the MetaTrader 5 platforms. We have aggregated multiple liquidity providers into a single feed which is routed directly into the MetaTrader infrastructure.<br/><br/>
-Al Awal Markets can either create an all-inclusive solution such as bridge and liquidity to an existing MetaTrader network, or a White Label solution utilising our existing global server network.<br/><br/>
-By connecting to the Al Awal Markets Liquidity Bridge, MetaTrader 5 brokers can access deep and reliable liquidity from stable and secure price feeds, resulting in better price execution and therefore improved client <br/><br/>
+                    Nova Capitals’s multi-bank liquidity is available to brokers and institutions operating the MetaTrader 5 platforms. We have aggregated multiple liquidity providers into a single feed which is routed directly into the MetaTrader infrastructure.<br/><br/>
+Nova Capitals can either create an all-inclusive solution such as bridge and liquidity to an existing MetaTrader network, or a White Label solution utilising our existing global server network.<br/><br/>
+By connecting to the Nova Capitals Liquidity Bridge, MetaTrader 5 brokers can access deep and reliable liquidity from stable and secure price feeds, resulting in better price execution and therefore improved client <br/><br/>
                     </h6>
 
                 </div>

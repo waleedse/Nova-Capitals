@@ -9,8 +9,8 @@ const NewPromo35PerB = () => {
             <div className='col-md-6'>
                <div className='title'><span className='titleLg'>GET</span><br/>
    <span className="perText"> $50</span> <br/>No Deposit Bonus</div>
-   <div className='title title2'>From Al Awal Markets</div>
-   <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
+   <div className='title title2'>From Nova Capitals</div>
+   <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} type="button" className='btnRegister'>REGISTER NOW</button>
           <a href="/bonus-terms"> <div className='text'>*Terms and conditions apply</div></a></div>
 
           <div className='col-md-6'>
@@ -24,7 +24,7 @@ const NewPromo35PerB = () => {
 <div className='basicRow promoUpto'>
 
    <div className='mainFlex'> <div className="contentSec">
-        <div className='title'>Al Awal Markets brings an exciting Offer for New Year 2022!
+        <div className='title'>Nova Capitals brings an exciting Offer for New Year 2022!
 Sign up today and earn up to $50 No Deposit Bonus to your trading account.</div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone" ></img> <span className='text'>Trade with high margin level </span></div>
         <div className='point'><img src="/assets/images/promoDone.png" className="pointDone"></img> <span className='text'>Lowest Spreads in the market
@@ -54,11 +54,11 @@ Sign up today and earn up to $50 No Deposit Bonus to your trading account.</div>
                       <div className="textFlex"><span className="number">1</span>
                       <div className="innerTextFlex"><div className="title text-light">OPEN AN ACCOUNT</div>
                       <div className="text text-light">Open your live trading account  <br/>
-via Al Awal Markets</div></div></div>
+via Nova Capitals</div></div></div>
 <img src="/assets/images/promoNewacc.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 
-          <div className='btnFlex'><button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button>
-          <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button>
+          <div className='btnFlex'><button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className='btnAcc liveAccBtn'>OPEN LIVE ACCOUNT</button>
+          <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className='btnAcc demoAccBtn ml-0 ml-md-4'>OPEN DEMO ACCOUNT</button>
           </div>
                   </div>
 
@@ -120,7 +120,7 @@ account <br/>
 <img src="/assets/images/promoTrade.png" alt="promoNewacc" className='img d-block d-md-none'></img>
 <div className="text text-light">Start trading on more<br/>
 than 80 instruments</div>
-<button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="getStarted">GET STARTED</button>
+<button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="getStarted">GET STARTED</button>
                   </div>
 
 

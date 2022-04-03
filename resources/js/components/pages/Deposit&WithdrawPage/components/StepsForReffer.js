@@ -18,7 +18,7 @@ class StepsToOpenAccount extends Component {
             <div className="outerDiv">
             <div className="centerDiv">  <img className="Img" src="/assets/images/support.png" alt="card"></img></div>
               <h4 className="title">REGISTER</h4>
-              <p className="text">Register to Al Awal Markets IB Program & get your referral link</p>
+              <p className="text">Register to Nova Capitals IB Program & get your referral link</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6 col-sm-12 mt-5 depositCard">
@@ -48,7 +48,7 @@ class StepsToOpenAccount extends Component {
           <div className="col-12 text-center mt-5 mb-5">
           <a href="/refer-terms">
           <p>*Terms And Conditions Apply</p> </a>
-          <button onClick={()=>{ window.open('https://secure.alawalmarkets.com/#/auth/signup','_self')}} className="depositButton " style={{padding:"8px 70px"}} >Get Started</button>
+          <button onClick={()=>{ window.open('https://secure.novacapitals.com/#/auth/signup','_self')}} className="depositButton " style={{padding:"8px 70px"}} >Get Started</button>
           </div>
             </div>
           </div>

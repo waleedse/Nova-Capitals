@@ -8,7 +8,7 @@ class AboutUsCounterSec extends Component {
               <div className="container-fluid">
                   <div className="row counterSec">
                       <div className="col-md-6 col-sm-12">
-                     <h4 className="title mb-4">Your Benefits with Al Awal
+                     <h4 className="title mb-4">Your Benefits with Nova Capitals
 </h4>
                           <p className="text">Our investment approach is driven by a combination of fundamental research, advanced market analysis, revolutionary technology platform and a persistent drive to excel on behalf our investors.<br/><br/>
 
@@ -33,7 +33,7 @@ class AboutUsCounterSec extends Component {
                       <div className="row  counterSec">
                         <div className="col-md-9">
                             <h1 className="titletext">Our MIssion</h1>
-                            <p className="textp">Al Awal Markets Limited enjoys the highest rate of client satisfaction in the industry. Our team works tirelessly to ensure that every client's investment brings about steady return. Principal of our team is development of revolutionary technology, designed to automate market making and post-trade activities to accumulate large profits over times. We enjoy good reputation in the industry by delivering our clients with consistently dependable fund management services. Al Awal Markets Limited manages funds for thousands of customers from all over the world</p>
+                            <p className="textp">Nova Capitals Limited enjoys the highest rate of client satisfaction in the industry. Our team works tirelessly to ensure that every client's investment brings about steady return. Principal of our team is development of revolutionary technology, designed to automate market making and post-trade activities to accumulate large profits over times. We enjoy good reputation in the industry by delivering our clients with consistently dependable fund management services. Nova Capitals Limited manages funds for thousands of customers from all over the world</p>
                         </div>
                         <div className="col-md-3 text-center">
                             <img src="/assets/images/globe.png" className="worldImg"></img>
@@ -41,7 +41,7 @@ class AboutUsCounterSec extends Component {
                       </div>
               </div>
               <div>
-                  <h1 className="titletext text-center py-4" style={{color:'#000'}}>WHY TRADE WITH Al Awal</h1>
+                  <h1 className="titletext text-center py-4" style={{color:'#000'}}>WHY TRADE WITH Nova Capitals</h1>
                   <img src="/assets/images/whyaboutus.jpg" style={{width:'100%',height:'100%'}}></img>
               </div>
             </div>

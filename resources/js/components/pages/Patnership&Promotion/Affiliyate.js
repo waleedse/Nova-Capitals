@@ -9,7 +9,7 @@ class Affiliyate extends Component {
             <div>
                 {/* <HeroSec2
                   title="Affiliate"
-                  text="Best IB & Affiliate Program by Al Awal Markets"
+                  text="Best IB & Affiliate Program by Nova Capitals"
                   bg="affiliyatebg.png"
                 >
 
@@ -17,7 +17,7 @@ class Affiliyate extends Component {
                 <div className="affliateBg">
                     <div>
                         <div className='title_'><span className='titleLg'>Affiliate</span><br /></div>
-                        <div className=' title2' style={{fontSize:'16px'}}>As an affiliate, you don’t have to know forex or meet clients in person. All you need to have is a high-traffic blog, website and/or a big number of social media followers. You will be provided with a complete set of marketing tools to promote Al Awal Markets and once your referred clients start trading, you will receive your commission.
+                        <div className=' title2' style={{fontSize:'16px'}}>As an affiliate, you don’t have to know forex or meet clients in person. All you need to have is a high-traffic blog, website and/or a big number of social media followers. You will be provided with a complete set of marketing tools to promote Nova Capitals and once your referred clients start trading, you will receive your commission.
 
 </div>
                         </div>
@@ -26,7 +26,7 @@ class Affiliyate extends Component {
                     <h2 className='atitle'>How does it work?</h2>
 
                     <h4 className='text-light container' style={{fontSize:'16px'}}>
-                    Al Awal Markets pays you competitive fees for making client introductions to us.<br></br>
+                    Nova Capitals pays you competitive fees for making client introductions to us.<br></br>
                     <br></br>
     As an Introducer, all you have to do is refer clients, and you will be rewarded for it. Each time one of your referred clients makes a trade, you will receive a commission and as long as they keep trading, you keep earning. The program comes at no cost, it's available to all our registered clients and is the perfect step towards building a vast network of partners.
     <br></br>
@@ -54,7 +54,7 @@ class Affiliyate extends Component {
                             <li> Agreeing to work with us involves a commitment from us to you, something you will find from very few other commercial organizations.
 </li>
 <br></br>
-                            <li> Al Awal Markets is staffed with dynamic; skilled individuals keen to promote our mutual success.</li>
+                            <li> Nova Capitals is staffed with dynamic; skilled individuals keen to promote our mutual success.</li>
                             <br></br>
                             <li>Your success is ours and vice versa.</li>
                         </div>
